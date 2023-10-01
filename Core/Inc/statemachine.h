@@ -9,6 +9,7 @@
 #define INC_STATEMACHINE_H_
 
 #include "main.h"
+#include "usbd_cdc_if.h"
 
 typedef enum{
 	STATE_LD1 = 0,

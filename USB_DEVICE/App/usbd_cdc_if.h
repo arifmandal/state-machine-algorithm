@@ -28,9 +28,9 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "usbd_cdc.h"
-#include "statemachine.h"
 
 /* USER CODE BEGIN INCLUDE */
+#include "statemachine.h"
 
 /* USER CODE END INCLUDE */
 

@@ -12,7 +12,8 @@
 #include "usbd_cdc_if.h"
 
 typedef enum{
-	STATE_LD1 = 0,
+	STATE_INIT = 0,
+	STATE_LD1,
 	STATE_LD2,
 	STATE_LD3,
 	STATE_LD4
